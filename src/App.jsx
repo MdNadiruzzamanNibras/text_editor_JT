@@ -59,7 +59,7 @@ const App = () => {
         <option value="blue">blue</option>
       </select>
           </div>
-          <button className="mt-24 px-6 py-1 border-2" onClick={handleSumit}>Add Text</button>
+          <button className="mt-28 px-6 py-1 border-2" onClick={handleSumit}>Add Text</button>
      </div>
        </div>
     </div>
